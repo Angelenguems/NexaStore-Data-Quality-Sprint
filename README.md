@@ -56,7 +56,8 @@ Le projet est structuré sous forme de **sprint Agile**, avec une planification 
 ---
 ## Structure du dépôt
 NexaStore-Data-Quality-Sprint/
-├── data/        # Données brutes, nettoyées et rejetées
+
+├── Nexa_Store_Dataset_Cleaned/        # Données brutes, nettoyées et rejetées
 
 ├── notebooks/   # Analyse et nettoyage des données
 
