@@ -1,0 +1,27 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Fichiers Excel temporaires
+~$*.xlsx
+
+# Données sensibles ou volumineuses
+data/raw/
+data/rejected/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
